@@ -31,7 +31,7 @@ Expert in React, TypeScript, and Next.js, specializing in complex state manageme
 
 - Implemented chunked streaming render of AI lesson summaries via ReadableStream, reducing time-to-first-content from ~4s to ~1.5s (measured via Performance API).
 - Built a modular exercise engine supporting 4 content types with a spaced-repetition queue, cutting average tutor homework-setup time from 8 to 2 minutes.
-- Refactored legacy B2B reporting tables to virtualized lists, reducing TTI from ~3s to ~300ms (10×) for datasets with 1,000+ rows.
+- Optimized B2B reporting tables to virtualized lists, reducing TTI from ~3s to ~300ms (10×) for datasets with 1,000+ rows.
 - Migrated 3 major B2B feature areas from class components to React Hooks + TypeScript strict mode, reducing runtime type errors by 40%.
 
 ### Frontend Developer [Cleveroad (Healthcare LMS)](https://www.cleveroad.com/portfolio/healthcare-learning-management-system-case-study/)
