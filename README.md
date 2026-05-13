@@ -1,6 +1,6 @@
 ## Hi there 👋 I am Pavel Lendel
 
-📧 [lendelpavelengineer@gmail.com](mailto:lendelpavelengineer@gmail.com) | 📱 +420 723 086 740 | 🐙 [GitHub Profile](https://github.com/lendelpavelengineer) | 📍 Czechia
+📧 [lendelpavelengineer@gmail.com](mailto:lendelpavelengineer@gmail.com) | 📱 +420 723 086 740 | 🐙 [LinkedIn](https://www.linkedin.com/in/pavel-lendel/) | 📍 Czechia
 
 ---
 
