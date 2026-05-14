@@ -2,7 +2,7 @@
 
 **Frontend Developer | 4+ Years Experience**
 
-+420 773 086 740 | Czech Republic | [lendelpavelengineer@gmail.com](mailto:lendelpavelengineer@gmail.com) | [LinkedIn](https://www.linkedin.com/in/pavel-lendel/) | [GitHub](#)
+[+420 773 086 740](tel:+420773086740) | Czech Republic | [lendelpavelengineer@gmail.com](mailto:lendelpavelengineer@gmail.com) | [LinkedIn](https://www.linkedin.com/in/pavel-lendel/) | [GitHub](#)
 
 ## ABOUT
 Frontend developer with over 4 years of commercial experience, delivering high-performance web applications for large audiences. Currently building and optimizing a product that supports over 350,000 registered users. Managed end-to-end feature delivery: bridging the gap between product requirements and reliable code, utilizing CI/CD, feature flags, and trunk-based development for safe, automated releases. Expert in React, TypeScript, and Next.js, specializing in complex state management and web performance. I am passionate about continuous learning and exploring technologies beyond the browser. My hobby is self-hosting, allowing me to build and manage my own infrastructure, networks, and personal cloud from scratch.
