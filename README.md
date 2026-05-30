@@ -26,7 +26,7 @@ Frontend developer with over 4 years of commercial experience, delivering high-p
 - Developed quiz and test management UI in the admin panel, slashing content-creation time for educators by 45%.
 - Led frontend migration from WordPress to a new React.js SPA integrated with a serverless REST API, accelerating average page-load time by 50%.
 
-**[DELTASPORT](https://www.cleveroad.com/portfolio/deltasport/) | 02/2023 – 02/2023**
+**[DELTASPORT](https://www.cleveroad.com/portfolio/deltasport/) | 02/2023 – 03/2023**
 - Designed and implemented a 6-level hierarchical RBAC with a centralized permission map and route/component guards, replacing scattered ad-hoc conditional rendering.
 - Optimized the event-creation workflow to meet a ≤30-second SLA, achieving an average creation time of 18 seconds through optimistic updates and request batching.
 - Built reporting dashboards with virtualized tables handling 10,000+ rows, maintaining consistent 60 fps scroll performance.
