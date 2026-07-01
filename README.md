@@ -19,7 +19,7 @@ Frontend developer with over 5 years of commercial experience, delivering high-p
 - Optimized legacy B2B reporting by implementing virtualization, improving TTI from ~3s to ~300ms for datasets with 1,000+ rows.
 - Migrated 3 major B2B feature areas from class components to React Hooks + TypeScript strict mode, eliminating runtime type errors by 40%.
 
-### CLEVEROAD | 01/2021 – 12/2023 (2 YEARS, 6 MONTHS)
+### CLEVEROAD | 01/2021 – 12/2023 (2 YEARS, 7 MONTHS)
 
 **[HEALTHCARE LMS](https://www.cleveroad.com/portfolio/healthcare-learning-management-system-case-study/) | 03/2022 – 12/2023**
 - Built a study-plan builder with drag-and-drop scheduling and persistent progress state, decreasing step-level drop-off on the planning screen from 38% to 19% post-launch.
