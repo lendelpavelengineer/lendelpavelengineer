@@ -1,11 +1,11 @@
 # PAVEL LENDEL
 
-**Frontend Developer | 4+ Years Experience**
+**Frontend Developer | 5+ Years Experience**
 
-[+420 773 086 740](tel:+420773086740) | Czech Republic | [lendelpavelengineer@gmail.com](mailto:lendelpavelengineer@gmail.com) | [LinkedIn](https://www.linkedin.com/in/pavel-lendel/) | [GitHub](#)
+[+420 773 086 740](tel:+420773086740) | [lendelpavelengineer@gmail.com](mailto:lendelpavelengineer@gmail.com) | [LinkedIn](https://www.linkedin.com/in/pavel-lendel/) | [GitHub](#)
 
 ## ABOUT
-Frontend developer with over 4 years of commercial experience, delivering high-performance web applications for large audiences. Currently building and optimizing a product that supports over 350,000 registered users. Managed end-to-end feature delivery: bridging the gap between product requirements and reliable code, utilizing CI/CD, feature flags, and trunk-based development for safe, automated releases. Expert in React, TypeScript, and Next.js, specializing in complex state management and web performance. I am passionate about continuous learning and exploring technologies beyond the browser. My hobby is self-hosting, allowing me to build and manage my own infrastructure, networks, and personal cloud from scratch.
+Frontend developer with over 5 years of commercial experience, delivering high-performance web applications for large audiences. Currently building and optimizing a product that supports over 350,000 registered users. Managed end-to-end feature delivery: bridging the gap between product requirements and reliable code, utilizing CI/CD, feature flags, and trunk-based development for safe, automated releases. Expert in React, TypeScript, and Next.js, specializing in complex state management and web performance. I am passionate about continuous learning and exploring technologies beyond the browser. My hobby is self-hosting, allowing me to build and manage my own infrastructure, networks, and personal cloud from scratch.
 
 ## SKILLS
 - **Core:** JavaScript (ES6+), TypeScript, HTML5, CSS3, React, Next.js, React Native, Redux, Zustand, REST, GraphQL, Jest, Vitest, Playwright, Cypress
@@ -19,7 +19,7 @@ Frontend developer with over 4 years of commercial experience, delivering high-p
 - Optimized legacy B2B reporting by implementing virtualization, improving TTI from ~3s to ~300ms for datasets with 1,000+ rows.
 - Migrated 3 major B2B feature areas from class components to React Hooks + TypeScript strict mode, eliminating runtime type errors by 40%.
 
-### CLEVEROAD | 02/2022 – 12/2023 (1 YEAR, 10 MONTHS)
+### CLEVEROAD | 01/2021 – 12/2023 (2 YEARS, 6 MONTHS)
 
 **[HEALTHCARE LMS](https://www.cleveroad.com/portfolio/healthcare-learning-management-system-case-study/) | 03/2022 – 12/2023**
 - Built a study-plan builder with drag-and-drop scheduling and persistent progress state, decreasing step-level drop-off on the planning screen from 38% to 19% post-launch.
